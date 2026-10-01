@@ -1,0 +1,58 @@
+[
+  {
+    "id": "CG-HW-01",
+    "file": "01-pilot.svg",
+    "title": "01  책상 위 1구역 조립 배치",
+    "description": "첫 제작 범위: ESP32 1대 · 온습도 2개 · 수분 프로브 2개 · 펌프 1대 · 계량 받침 1개",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-02",
+    "file": "02-frame.svg",
+    "title": "02  3구역 프레임 외형 · 배치",
+    "description": "바닥 설치형 800 × 400 × 1200 제안 / 좌측 앞 바닥 원점, x 오른쪽 · y 뒤쪽 · z 위쪽",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-03",
+    "file": "03-exploded.svg",
+    "title": "03  계량 받침 분해 조립 원리",
+    "description": "막대형 로드셀: 한 끝은 베이스에, 반대 끝은 하중 상판에 고정 / PP-A410 실물 고정 방향 확인",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-04",
+    "file": "04-wiring.svg",
+    "title": "04  한 구역 신호 배선 · 하네스",
+    "description": "클래식 ESP32 DevKit 기준 검토안 / 실제 커넥터 핀 번호·전선 색상·기판 방향은 실물로 확정",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-05",
+    "file": "05-water-power.svg",
+    "title": "05  펌프 전력 경로 · 독립 물길",
+    "description": "논리 연결도 / 실제 DFR0457 전력·제어 단자의 위치는 제조사 핀아웃과 수령품으로 확인",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-06",
+    "file": "06-assembly.svg",
+    "title": "06  1구역 조립 순서 · 부품 묶음",
+    "description": "1구역을 검수한 다음 동일 모델로 3구역 복제 / 부품 ID는 원문 19장 구매표와 연결",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-07",
+    "file": "07-verification.svg",
+    "title": "07  미확정 치수 · 제작 전 검수표",
+    "description": "기계 revision M1 / 보드 revision B0 / 하네스 revision H1 / 실측칸을 채운 뒤 도면과 BOM을 함께 갱신",
+    "status": "제작 검토용 v1 · 미실측"
+  },
+  {
+    "id": "CG-HW-08",
+    "file": "08-cutlist.svg",
+    "title": "08  프레임 절단안 · 선반 판 상세",
+    "description": "2020 기둥 사이에 가로재를 끼우는 맞댐 구조 가정 / 제품·체결 방식이 바뀌면 절단 길이 재계산",
+    "status": "제작 검토용 v1 · 미실측"
+  }
+]

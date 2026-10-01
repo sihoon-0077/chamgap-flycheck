@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="ko">
+<head>
+  <meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>참값 × FlyCheck | 제작 워크스페이스</title>
+  <meta name="description" content="참값 × FlyCheck 하드웨어 조립 도면, 부품과 조립 순서, 가상 데이터 기반 점검 추천 실험실.">
+  <meta name="theme-color" content="#132a2a"><link rel="icon" href="/favicon.svg" type="image/svg+xml">
+  <link rel="stylesheet" href="/styles.css"><script type="module" src="/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">본문으로 이동</a>
+  <aside class="sidebar" aria-label="프로젝트 탐색">
+    <a class="brand" href="#drawings"><img src="/favicon.svg" alt="" width="38" height="38"><span>참값<span class="brand-sub">CHAMGAP × FLYCHECK</span></span></a>
+    <div class="project-tag"><span class="mono">CAPSTONE / 2026</span><span>제작 워크스페이스</span></div>
+    <nav>
+      <a href="#drawings" data-nav="drawings" class="nav-link active"><span class="nav-no">01</span><span>조립 도면</span><span class="nav-count">8</span></a>
+      <a href="#assembly" data-nav="assembly" class="nav-link"><span class="nav-no">02</span><span>부품과 조립</span></a>
+      <a href="#flycheck" data-nav="flycheck" class="nav-link"><span class="nav-no">03</span><span>FlyCheck Lab</span><span class="nav-lab">SIM</span></a>
+      <a href="#verification" data-nav="verification" class="nav-link"><span class="nav-no">04</span><span>검증 기록</span></a>
+    </nav>
+    <div class="sidebar-bottom"><div class="side-progress"><span>첫 제작 단계</span><strong>1구역 파일럿</strong></div><p>한 구역을 확인하고,<br>세 구역으로 확장합니다.</p><div class="sidebar-foot mono">MASTER v4 · BUILD v1</div></div>
+  </aside>
+  <div class="workspace">
+    <header class="topbar"><div><span class="breadcrumb">참값 프로젝트</span><span class="slash">/</span><span id="breadcrumb-current">조립 도면</span></div><span class="top-status"><span class="status-square"></span>설계·가상 실험 단계</span></header>
+    <main id="main" tabindex="-1">
+      <section id="view-drawings" class="view">
+        <div class="page-heading"><div><div class="eyebrow">01 / HARDWARE DRAWINGS</div><h1>조립 도면</h1><p>한 구역부터, 부품의 위치와 연결을 차근차근.</p></div><a class="button primary" href="/downloads/chamgap-assembly-v1.pdf" download>도면 PDF 다운로드 <span aria-hidden="true">↓</span></a></div>
+        <div class="spec-strip"><div><span>제작 시작점</span><strong>책상형 1구역</strong></div><div><span>확장 프레임 · 제안 치수</span><strong class="mono">800 × 400 × 1,200 <small>mm</small></strong></div><div><span>도면 상태</span><strong class="review-label">제작 검토용 v1</strong></div></div>
+        <div class="drawing-layout">
+          <div class="drawing-main"><div class="drawing-toolbar"><div><span class="sheet-index mono" id="sheet-index">HW-01</span><h2 id="drawing-title">1구역 책상형 배치</h2></div><div class="drawing-tools"><button id="zoom-out" class="icon-button" aria-label="도면 축소">−</button><button id="zoom-reset" class="zoom-label" aria-label="도면 확대율 초기화">100%</button><button id="zoom-in" class="icon-button" aria-label="도면 확대">+</button><a id="drawing-open" class="icon-button" href="/assets/drawings/01-pilot.svg" target="_blank" rel="noopener" aria-label="도면 원본 새 창에서 열기">↗</a></div></div>
+            <div class="drawing-viewport" id="drawing-viewport"><img id="drawing-image" src="/assets/drawings/01-pilot.svg" alt="1구역 책상형 배치도. 부품 위치와 배선 및 물길을 표시한 제작 검토용 도면."></div>
+            <div class="drawing-caption"><span id="drawing-description">전자부품과 물길을 분리한 첫 조립 구성</span><a id="drawing-download" href="/assets/drawings/01-pilot.svg" download>SVG 원본 ↓</a></div>
+          </div>
+          <aside class="sheet-panel" aria-label="도면 목록"><div class="panel-heading"><h2>도면 목록</h2><span class="mono">08 SHEETS</span></div><div id="sheet-list"></div><div class="sheet-note"><span class="note-mark">i</span><p>치수는 mm 기준입니다.<br>미확정 항목은 실측 후 갱신하세요.</p></div></aside>
+        </div>
+        <div class="below-grid"><article class="info-card"><div class="eyebrow">먼저 확인할 것</div><h3>부품을 받으면 여기부터</h3><p>ESP32 기판 배열, 로드셀 고정홀, 펌프·튜브 규격을 확인하세요. 도면의 ‘확인 필요’ 표시는 실제 부품 확인 전 남겨둔 항목입니다.</p><a class="text-link" href="#verification">실측 확인 항목 보기 <span>↗</span></a></article><article class="info-card dark-card"><div class="eyebrow">NEXT STEP</div><h3>도면 번호와 부품 번호를 맞추세요.</h3><p>센서 연결부터 계량 받침, 펌프 독립 시험까지.<br>다음 단계의 조건을 조립 순서에 담았습니다.</p><a class="text-link" href="#assembly">부품과 조립 순서 <span>↗</span></a></article></div>
+      </section>
+      <section id="view-assembly" class="view" hidden>
+        <div class="page-heading"><div><div class="eyebrow">02 / ASSEMBLY GUIDE</div><h1>부품과 조립</h1><p>대상 센서와 비교 센서, 한 쌍을 기준으로 조립합니다.</p></div><a class="button" href="/downloads/chamgap-assembly-v1.pdf" download>조립 설명서 ↓</a></div>
+        <div class="assembly-grid"><div class="card"><div class="card-heading"><h2>1구역 조립 순서</h2><span class="pill">실물 확인 필요</span></div><ol class="assembly-steps" id="assembly-steps"></ol></div><div><article class="card compact-card"><div class="eyebrow">핵심 구성</div><h2>1 → 3 구역</h2><p>1구역 센서·계량·공급량을 먼저 확인한 뒤 같은 부품으로 복제합니다.</p><dl class="mini-specs"><div><dt>ESP32</dt><dd>1개</dd></div><div><dt>온습도 / 토양수분</dt><dd>각 2개</dd></div><div><dt>펌프 / 계량 받침</dt><dd>각 1세트</dd></div></dl></article><article class="notice"><h3>가공 전 확인</h3><p>프레임 체결 방식, 로드셀 홀 간격과 나사, 후면 판 두께는 미정입니다. 부품 실측이 끝나면 도면과 부품표를 함께 수정하세요.</p></article><article class="card compact-card"><h3>센서 코드 시작점</h3><p>센서-only 참고 코드입니다. 펌프 출력은 OFF이며 실제 보드 검수가 필요합니다.</p><a href="/downloads/sensor-bringup.ino" download class="text-link">ESP32 센서 스케치 ↓</a></article></div></div>
+        <div class="card bom-card"><div class="card-heading"><div><h2>부품표</h2><p>원문 v4 · 운용 수량 기준. 2026-09-29 가격 조사 기록이며 현재 판매가가 아닙니다.</p></div><label class="filter-label">분류<select id="bom-filter"><option value="all">전체 부품</option><option value="E">센서·제어·계량</option><option value="P">전원·보호</option><option value="C">배선·함체</option><option value="W">물길·재배</option></select></label></div><div class="table-wrap"><table><thead><tr><th>부품 ID</th><th>부품 / 규격</th><th>3구역 운용 수량</th><th>당시 단가</th><th>구매 자료</th></tr></thead><tbody id="bom-body"></tbody></table></div><p class="table-footnote">프레임·계량 지그·전력선·퓨즈 정격·물리 차단·누수 트레이·배송은 별도 확정 항목입니다. 예비품은 운용 수량에 포함하지 않았습니다.</p></div>
+      </section>
+      <section id="view-flycheck" class="view" hidden>
+        <div class="page-heading"><div><div class="eyebrow">03 / FLYCHECK LAB</div><h1>다음에는 무엇을 확인할까?</h1><p>가상 관측을 입력하고, 학습한 모델의 점검 추천을 확인하세요.</p></div><span class="simulation-badge">SIMULATION ONLY</span></div>
+        <div class="notice inline-notice"><strong>난수 연결 구조 데모</strong><span>실제 초파리 연결 데이터가 아닙니다. 미보정 가상환경으로 학습했으며 실물 장치를 작동시키지 않습니다.</span></div>
+        <div id="lab-loading" class="lab-loading" role="status">학습 모델과 가상 관측을 불러오는 중입니다.</div>
+        <div id="lab-content" hidden><div class="lab-grid"><div class="card scenario-card"><div class="card-heading"><h2>가상 시나리오</h2><span class="mono">INPUT</span></div><div id="case-list" class="case-list"></div><div class="case-detail"><span class="eyebrow">관측 내용</span><h3 id="case-title"></h3><p id="case-description"></p></div><button id="run-inference" class="button primary full-width">다음 점검 추천 계산</button><p class="small-note">브라우저에서 실제 학습 가중치로 계산합니다.</p></div><div class="card result-card"><div class="card-heading"><h2>점검 추천</h2><span class="pill">가상 관측</span></div><div id="recommendation" class="recommendation" aria-live="polite"><span class="result-symbol">◎</span><div><span class="eyebrow">READY</span><h3>시나리오를 선택하고 계산하세요.</h3><p>행동별 예측 효용과 허용 여부를 함께 확인합니다.</p></div></div><div id="score-list" class="score-list"></div><div class="model-note"><span class="mono">PN → KC → READOUT</span><span>28차원 관측 · 4개 점검 행동</span></div><details class="observation-details"><summary>입력 관측 28개 확인</summary><div id="observation-list"></div></details></div></div><div class="card history-card"><div class="card-heading"><div><h2>이번 추천 기록</h2><p>이 탭에서 계산한 결과입니다. 새로고침하면 초기화됩니다.</p></div><button id="export-history" class="button small" disabled>JSON 내려받기</button></div><div id="history"><p class="empty-state">추천을 계산하면 사용한 시나리오와 결과가 여기에 남습니다.</p></div></div></div>
+      </section>
+      <section id="view-verification" class="view" hidden>
+        <div class="page-heading"><div><div class="eyebrow">04 / VERIFICATION</div><h1>검증 기록</h1><p>실행으로 확인한 것과, 실물에서 확인할 것을 구분합니다.</p></div><a class="button" href="/data/evaluation.json" download>실험 결과 JSON ↓</a></div>
+        <div id="verification-results" class="verification-results"></div>
+        <div class="below-grid"><article class="card"><div class="card-heading"><h2>실물에서 확인할 항목</h2><span class="pill amber">미검증</span></div><ul class="verification-list"><li><strong>기구 치수와 고정</strong><span>로드셀 홀·나사, 함체 개폐, 판 처짐, 프레임 하중</span></li><li><strong>센서와 계량</strong><span>보드 핀, 센서 주소·전압, 기준 질량과 반복성</span></li><li><strong>펌프와 차단</strong><span>기동 전류, DC 차단 정격, 공급량 보정, 누수 대응</span></li><li><strong>연구 성능</strong><span>실제 초파리 연결 확보, 실측 보정, 독립 실물 평가</span></li></ul></article><article class="card"><div class="card-heading"><h2>설계 근거</h2><span class="mono">MASTER v4</span></div><p class="source-intro">제공된 마스터 문서의 18–21장과 29장을 도면으로 옮겼습니다. 제작 검토용 제안 치수와 미정 사항을 유지했습니다.</p><ul class="source-links"><li><a href="https://wiki.dfrobot.com/dfr0457" target="_blank" rel="noopener">DFRobot DFR0457 · 규격·회로·치수도 ↗</a></li><li><a href="https://wiki.dfrobot.com/sen0193" target="_blank" rel="noopener">DFRobot SEN0193 · 전원·출력 규격 ↗</a></li><li><a href="https://docs.espressif.com/projects/esp-idf/en/stable/esp32/api-reference/peripherals/gpio.html" target="_blank" rel="noopener">Espressif ESP32 · GPIO 참고 ↗</a></li></ul><p class="small-note">제조사 자료가 실제 수령한 호환보드의 배열까지 보증하지는 않습니다.</p></article></div>
+      </section>
+      <footer class="page-footer"><span>참값 × FlyCheck</span><span>제작 검토용 v1 · 실물 미검증 · 가상 데모</span></footer>
+    </main>
+  </div>
+</body>
+</html>

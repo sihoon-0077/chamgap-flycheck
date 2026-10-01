@@ -1,0 +1,82 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="08  프레임 절단안 · 선반 판 상세">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">08  프레임 절단안 · 선반 판 상세</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">2020 기둥 사이에 가로재를 끼우는 맞댐 구조 가정 / 제품·체결 방식이 바뀌면 절단 길이 재계산</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-08   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">08 / 08</text>
+<rect x="48" y="148" width="1024" height="31" rx="0" fill="#152C49" stroke="#152C49" stroke-width="1"/>
+<text x="58" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">부재</text>
+<text x="247" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">수량</text>
+<text x="314" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">길이 / 1개</text>
+<text x="444" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">총 길이</text>
+<text x="574" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">위치 / 계산 근거</text>
+<rect x="48" y="179" width="1024" height="37" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">수직 기둥</text>
+<text x="247" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">4</text>
+<text x="314" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">1200</text>
+<text x="444" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">4800</text>
+<text x="574" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">외형 높이 1200 / 가로재 높이를 다시 더하지 않음</text>
+<rect x="48" y="216" width="1024" height="37" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="235" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">폭 방향 가로재</text>
+<text x="247" y="235" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">6</text>
+<text x="314" y="235" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">760</text>
+<text x="444" y="235" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">4560</text>
+<text x="574" y="235" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">800 - 20 - 20 / 하부·선반·상부 링 각2</text>
+<rect x="48" y="253" width="1024" height="37" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="272" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">깊이 방향 가로재</text>
+<text x="247" y="272" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">6</text>
+<text x="314" y="272" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">360</text>
+<text x="444" y="272" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">2160</text>
+<text x="574" y="272" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">400 - 20 - 20 / 하부·선반·상부 링 각2</text>
+<rect x="48" y="290" width="1024" height="37" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="309" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">선반 보강 깊이재</text>
+<text x="247" y="309" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">2</text>
+<text x="314" y="309" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">360</text>
+<text x="444" y="309" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">720</text>
+<text x="574" y="309" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">받침 사이 위치 조정 / 체결 간섭 검토</text>
+<rect x="48" y="327" width="1024" height="37" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="346" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">합계</text>
+<text x="247" y="346" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">18</text>
+<text x="314" y="346" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">-</text>
+<text x="444" y="346" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">12,240</text>
+<text x="574" y="346" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">12.24 m / 절단 손실·여분·추가 캐리어 제외</text>
+<text x="48" y="413" font-size="15" fill="#152C49" font-weight="700" text-anchor="start">선반 판 평면 상세 / 절개 제안</text>
+<polygon points="90.78,460.0 461.21999999999997,460.0 461.21999999999997,470.78 472.0,470.78 472.0,645.22 461.21999999999997,645.22 461.21999999999997,656.0 90.78,656.0 90.78,645.22 80.0,645.22 80.0,470.78 90.78,470.78" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1.5"/>
+<line x1="217.2" y1="469.8" x2="217.2" y2="646.2" stroke="#2F6BDE" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="334.79999999999995" y1="469.8" x2="334.79999999999995" y2="646.2" stroke="#2F6BDE" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="80" y1="656.0" x2="80" y2="694" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="472.0" y1="656.0" x2="472.0" y2="694" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="80" y1="688" x2="472.0" y2="688" stroke="#61738B" stroke-width="0.8"/>
+<line x1="76" y1="692" x2="84" y2="684" stroke="#61738B" stroke-width="0.8"/>
+<line x1="468.0" y1="692" x2="476.0" y2="684" stroke="#61738B" stroke-width="0.8"/>
+<text x="276.0" y="681" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">800</text>
+<line x1="80" y1="460" x2="63" y2="460" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="80" y1="656.0" x2="63" y2="656.0" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="58" y1="460" x2="58" y2="656.0" stroke="#61738B" stroke-width="0.8"/>
+<line x1="54" y1="464" x2="62" y2="456" stroke="#61738B" stroke-width="0.8"/>
+<line x1="54" y1="660.0" x2="62" y2="652.0" stroke="#61738B" stroke-width="0.8"/>
+<text x="49" y="562.0" font-size="11" fill="#61738B" font-weight="400" text-anchor="end">400</text>
+<text x="276" y="556" font-size="14" fill="#152C49" font-weight="700" text-anchor="middle">판 두께 12 제안</text>
+<text x="276" y="580" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">4모서리 22 × 22 절개 제안</text>
+<text x="276" y="604" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">기둥·브래킷 실물 간섭 확인 후 확정</text>
+<rect x="566" y="409" width="506" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="582" y="433" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">설치 높이 기준</text>
+<text x="582" y="455" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">하부 링 z 0-20 / 선반 링 z 580-600</text>
+<text x="582" y="474" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">상부 링 z 1180-1200</text>
+<text x="582" y="493" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">선반 판 윗면 z 612 (판 두께 12 적용 시)</text>
+<text x="582" y="512" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">계량 받침 높이 40이면 용기 바닥 z 652</text>
+<rect x="566" y="573" width="506" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="582" y="597" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">절단 발주 전 확인</text>
+<text x="582" y="619" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">프로파일 단면·브래킷·T너트·볼트 규격을 한 세트로 선정</text>
+<text x="582" y="638" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">후면 대각 또는 판 보강과 발 고정 검토</text>
+<text x="582" y="657" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">별도 제안: 전장함 캐리어 약 760×250 / 두께 미정</text>
+<text x="582" y="676" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">프레임 견적·하중 검토 전에는 기존 책상 파일럿부터 진행</text>
+</svg>

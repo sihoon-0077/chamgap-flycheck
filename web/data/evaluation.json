@@ -1,0 +1,146 @@
+{
+  "schema_version": "flycheck.evaluation.v1",
+  "meta": {
+    "domain": "SIM_ONLY_UNCALIBRATED",
+    "connectome_source": "DEMO_RANDOM_NOT_BIOLOGICAL",
+    "hardware_enabled": false,
+    "model_comparison_scientifically_proven": false,
+    "notice": "미보정 가상환경의 작동 시연입니다. 실제 초파리 연결, 현장 성능, 모델의 우위가 입증된 결과가 아닙니다."
+  },
+  "generated_at": "2026-10-01T08:39:25.218478+00:00",
+  "runtime": {
+    "python": "3.12.14",
+    "numpy": "2.3.5",
+    "torch": "2.14.1",
+    "pytest": "9.1.1",
+    "pydantic": "2.13.5"
+  },
+  "verification": {
+    "python_tests_passed": 46,
+    "dry_run_duplicate_verified": true,
+    "hardware_verified": false,
+    "browser_parity": {
+      "status": "passed",
+      "observations": 733,
+      "model_checks": 1466,
+      "max_absolute_score_error": 8.367604733550138e-7,
+      "tolerance": 0.00005,
+      "actions_and_masks_match": true
+    }
+  },
+  "dataset": {
+    "domain": "SIM_ONLY_UNCALIBRATED",
+    "sim_version": "toy-physical-v0.1-unfitted",
+    "features": [
+      "channel_soil",
+      "channel_temperature",
+      "channel_humidity",
+      "target_scaled",
+      "target_delta",
+      "target_std",
+      "target_age_scaled",
+      "comparison_scaled",
+      "comparison_valid",
+      "comparison_age_scaled",
+      "pair_abs_difference",
+      "last_command_ml_scaled",
+      "delivered_ml_scaled",
+      "delivery_valid",
+      "response_scaled",
+      "response_valid",
+      "air_temperature_scaled",
+      "air_humidity_scaled",
+      "elapsed_scaled",
+      "resample_count",
+      "compare_count",
+      "pulse_count",
+      "remaining_water_scaled",
+      "permit_pulse",
+      "scale_ok",
+      "estop",
+      "leak",
+      "cooldown_done"
+    ],
+    "episodes_requested": 240,
+    "groups_saved": 237,
+    "rows": 507,
+    "replicas": 3,
+    "seed": 17,
+    "target": "return_after_first_action_then_fixed_continuation",
+    "truth_in_features": false
+  },
+  "policies": {
+    "fixed": {
+      "episodes": 90,
+      "seed_start": 900001,
+      "summary": {
+        "auto_correct": 0.7777777777777778,
+        "auto_wrong": 0.1111111111111111,
+        "human": 0.1111111111111111,
+        "timeout": 0,
+        "initial_resolved": 0.011111111111111112,
+        "checks": 3,
+        "elapsed_s": 101.11111111111111,
+        "commanded_water_ml": 3.6666666666666665,
+        "return": 2.1938888888888886,
+        "automatic_coverage": 0.8888888888888888,
+        "conditional_auto_accuracy": 0.8750000000000001,
+        "auto_wrong_bootstrap95": [
+          0.044444444444444446,
+          0.17777777777777778
+        ]
+      },
+      "trainable_parameters": 0
+    },
+    "mlp": {
+      "episodes": 90,
+      "seed_start": 900001,
+      "summary": {
+        "auto_correct": 0.7666666666666667,
+        "auto_wrong": 0.06666666666666667,
+        "human": 0.16666666666666666,
+        "timeout": 0,
+        "initial_resolved": 0.011111111111111112,
+        "checks": 2.477777777777778,
+        "elapsed_s": 81.33333333333333,
+        "commanded_water_ml": 3,
+        "return": 2.5921111111111106,
+        "automatic_coverage": 0.8333333333333334,
+        "conditional_auto_accuracy": 0.92,
+        "auto_wrong_bootstrap95": [
+          0.022222222222222223,
+          0.12222222222222222
+        ]
+      },
+      "trainable_parameters": 2116
+    },
+    "fly": {
+      "episodes": 90,
+      "seed_start": 900001,
+      "summary": {
+        "auto_correct": 0.7,
+        "auto_wrong": 0.06666666666666667,
+        "human": 0.06666666666666667,
+        "timeout": 0.16666666666666666,
+        "initial_resolved": 0.011111111111111112,
+        "checks": 3.411111111111111,
+        "elapsed_s": 96.66666666666667,
+        "commanded_water_ml": 2.888888888888889,
+        "return": 2.0855555555555556,
+        "automatic_coverage": 0.7666666666666666,
+        "conditional_auto_accuracy": 0.9130434782608696,
+        "auto_wrong_bootstrap95": [
+          0.022222222222222223,
+          0.12222222222222222
+        ]
+      },
+      "trainable_parameters": 1444
+    }
+  },
+  "limitations": [
+    "미보정 가상환경 90개 사건, 단일 학습 시드의 작동 확인입니다.",
+    "MLP와 fly형 모델의 학습 파라미터 수가 달라 공정한 구조 비교가 아닙니다.",
+    "실제 뉴런 연결이나 실물 측정 데이터를 사용하지 않았습니다.",
+    "자동 판정 보류와 오답을 함께 공개하며 조건부 정확도만 성과로 해석하지 않습니다."
+  ]
+}

@@ -1,0 +1,117 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="02  3구역 프레임 외형 · 배치">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">02  3구역 프레임 외형 · 배치</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">바닥 설치형 800 × 400 × 1200 제안 / 좌측 앞 바닥 원점, x 오른쪽 · y 뒤쪽 · z 위쪽</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-02   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">02 / 08</text>
+<text x="91" y="154" font-size="14" fill="#152C49" font-weight="700" text-anchor="start">정면도  x-z</text>
+<rect x="91.0" y="178.0" width="7.199999999999999" height="432.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="371.8" y="178.0" width="7.199999999999999" height="432.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="98.2" y="602.8" width="273.59999999999997" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="98.2" y="394.0" width="273.59999999999997" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="98.2" y="178.0" width="273.59999999999997" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="91.0" y="389.68" width="288.0" height="4.32" rx="0" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="109.0" y="375.28" width="79.2" height="14.399999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="116.2" y="303.28000000000003" width="64.8" height="72.0" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="148.6" y="342.88" font-size="13" fill="#152C49" font-weight="700" text-anchor="middle">Z1</text>
+<rect x="195.39999999999998" y="375.28" width="79.2" height="14.399999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="202.6" y="303.28000000000003" width="64.8" height="72.0" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="235.0" y="342.88" font-size="13" fill="#152C49" font-weight="700" text-anchor="middle">Z2</text>
+<rect x="281.79999999999995" y="375.28" width="79.2" height="14.399999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="289.0" y="303.28000000000003" width="64.8" height="72.0" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="321.4" y="342.88" font-size="13" fill="#152C49" font-weight="700" text-anchor="middle">Z3</text>
+<rect x="105.4" y="199.60000000000002" width="72.0" height="54.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="141.4" y="226.60000000000002" font-size="10" fill="#152C49" font-weight="700" text-anchor="middle">BOX 1</text>
+<rect x="199.0" y="199.60000000000002" width="72.0" height="54.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="235.0" y="226.60000000000002" font-size="10" fill="#152C49" font-weight="700" text-anchor="middle">BOX 2</text>
+<rect x="292.6" y="199.60000000000002" width="72.0" height="54.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="328.6" y="226.60000000000002" font-size="10" fill="#152C49" font-weight="700" text-anchor="middle">BOX 3</text>
+<rect x="109.0" y="491.2" width="90.0" height="90.0" rx="0" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="154.0" y="536.2" font-size="11" fill="#008597" font-weight="400" text-anchor="middle">水 / 5 L</text>
+<circle cx="244.0" cy="538.0" r="13" fill="#FFFFFF" stroke="#008597" stroke-width="1.2"/>
+<circle cx="287.2" cy="538.0" r="13" fill="#FFFFFF" stroke="#008597" stroke-width="1.2"/>
+<circle cx="330.4" cy="538.0" r="13" fill="#FFFFFF" stroke="#008597" stroke-width="1.2"/>
+<line x1="91" y1="610" x2="91" y2="656" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="379.0" y1="610" x2="379.0" y2="656" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="91" y1="650" x2="379.0" y2="650" stroke="#61738B" stroke-width="0.8"/>
+<line x1="87" y1="654" x2="95" y2="646" stroke="#61738B" stroke-width="0.8"/>
+<line x1="375.0" y1="654" x2="383.0" y2="646" stroke="#61738B" stroke-width="0.8"/>
+<text x="235.0" y="643" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">800</text>
+<line x1="91" y1="178.0" x2="74" y2="178.0" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="91" y1="610" x2="74" y2="610" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="69" y1="178.0" x2="69" y2="610" stroke="#61738B" stroke-width="0.8"/>
+<line x1="65" y1="182.0" x2="73" y2="174.0" stroke="#61738B" stroke-width="0.8"/>
+<line x1="65" y1="614" x2="73" y2="606" stroke="#61738B" stroke-width="0.8"/>
+<text x="60" y="398.0" font-size="11" fill="#61738B" font-weight="400" text-anchor="end">1200</text>
+<line x1="379.0" y1="394.0" x2="402" y2="394.0" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="407" y="398.0" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">z 600</text>
+<text x="510" y="154" font-size="14" fill="#152C49" font-weight="700" text-anchor="start">측면도  y-z</text>
+<rect x="510.0" y="178.0" width="7.199999999999999" height="432.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="646.8" y="178.0" width="7.199999999999999" height="432.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="517.2" y="602.8" width="129.6" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="517.2" y="394.0" width="129.6" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="517.2" y="178.0" width="129.6" height="7.199999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="510.0" y="389.68" width="144.0" height="4.32" rx="0" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="531.6" y="375.28" width="93.6" height="14.399999999999999" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="546.0" y="303.28000000000003" width="64.8" height="72.0" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="610.8" y="199.60000000000002" width="36.0" height="54.0" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="538.8" y="491.2" width="72.0" height="90.0" rx="0" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<line x1="510" y1="264.40000000000003" x2="639.6" y2="264.40000000000003" stroke="#2F6BDE" stroke-width="1.2" stroke-dasharray="5 4"/>
+<line x1="510" y1="610" x2="510" y2="656" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="654.0" y1="610" x2="654.0" y2="656" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="510" y1="650" x2="654.0" y2="650" stroke="#61738B" stroke-width="0.8"/>
+<line x1="506" y1="654" x2="514" y2="646" stroke="#61738B" stroke-width="0.8"/>
+<line x1="650.0" y1="654" x2="658.0" y2="646" stroke="#61738B" stroke-width="0.8"/>
+<text x="582.0" y="643" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">400</text>
+<text x="582.0" y="271.6" font-size="9" fill="#61738B" font-weight="400" text-anchor="middle">상단 지지바 높이 실측</text>
+<text x="740" y="154" font-size="14" fill="#152C49" font-weight="700" text-anchor="start">평면도  x-y</text>
+<text x="740" y="176" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">재배 선반 높이 z 612 / 위에서 봄</text>
+<rect x="740" y="206" width="312.0" height="156.0" rx="1" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="759.5" y="237.2" width="85.8" height="101.4" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="767.3" y="252.8" width="70.2" height="70.2" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="802.4" y="291.8" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z1</text>
+<rect x="853.1" y="237.2" width="85.8" height="101.4" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="860.9" y="252.8" width="70.2" height="70.2" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="896.0" y="291.8" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z2</text>
+<rect x="946.7" y="237.2" width="85.8" height="101.4" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="954.5" y="252.8" width="70.2" height="70.2" rx="0" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="989.6" y="291.8" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z3</text>
+<line x1="740" y1="362.0" x2="740" y2="403" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="1052.0" y1="362.0" x2="1052.0" y2="403" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="740" y1="397" x2="1052.0" y2="397" stroke="#61738B" stroke-width="0.8"/>
+<line x1="736" y1="401" x2="744" y2="393" stroke="#61738B" stroke-width="0.8"/>
+<line x1="1048.0" y1="401" x2="1056.0" y2="393" stroke="#61738B" stroke-width="0.8"/>
+<text x="896.0" y="390" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">50 + 220 + 20 + 220 + 20 + 220 + 50 = 800</text>
+<text x="896.0" y="198" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">뒤쪽 y=400</text>
+<rect x="738" y="423" width="316" height="31" rx="0" fill="#152C49" stroke="#152C49" stroke-width="1"/>
+<text x="748" y="444" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">항목</text>
+<text x="827" y="444" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">x 범위</text>
+<text x="946" y="444" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">y 범위</text>
+<rect x="738" y="454" width="316" height="30" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="748" y="473" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">Z1 받침</text>
+<text x="827" y="473" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">50 - 270</text>
+<text x="946" y="473" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">60 - 320</text>
+<rect x="738" y="484" width="316" height="30" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="748" y="503" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">Z2 받침</text>
+<text x="827" y="503" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">290 - 510</text>
+<text x="946" y="503" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">60 - 320</text>
+<rect x="738" y="514" width="316" height="30" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="748" y="533" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">Z3 받침</text>
+<text x="827" y="533" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">530 - 750</text>
+<text x="946" y="533" font-size="10" fill="#152C49" font-weight="400" text-anchor="start">60 - 320</text>
+<rect x="737" y="567" width="334" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="753" y="591" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">후면 전장함 / 캐리어</text>
+<text x="753" y="613" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">본체: 200 W × 100 D × 150 H (회전 배치)</text>
+<text x="753" y="632" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">y 280-380 / z 990-1140</text>
+<text x="753" y="651" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">x: 40-240 / 300-500 / 560-760</text>
+<text x="753" y="670" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">뚜껑·글랜드·지지판 간섭은 실물 확인</text>
+<text x="91" y="687" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">계량 받침 높이가 달라지면 용기 z 좌표를 재계산. 발·캡 돌출, 보강판, 캐리어는 외형 치수에 미포함.</text>
+</svg>

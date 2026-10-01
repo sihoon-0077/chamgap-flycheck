@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="01  책상 위 1구역 조립 배치">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">01  책상 위 1구역 조립 배치</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">첫 제작 범위: ESP32 1대 · 온습도 2개 · 수분 프로브 2개 · 펌프 1대 · 계량 받침 1개</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-01   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">01 / 08</text>
+<text x="48" y="151" font-size="15" fill="#152C49" font-weight="700" text-anchor="start">평면 개념도</text>
+<text x="48" y="174" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">책상 크기와 이격거리는 현장에서 결정 / 점선은 점유·분리 구획</text>
+<rect x="64" y="202" width="680" height="415" rx="8" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="1.4"/>
+<rect x="86" y="224" width="211" height="355" rx="4" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1" stroke-dasharray="5 4"/>
+<text x="105" y="250" font-size="11" fill="#152C49" font-weight="700" text-anchor="start">전장 구획 · 물보다 높은 고정 위치</text>
+<rect x="109" y="275" width="166" height="128" rx="6" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="192" y="306" font-size="15" fill="#152C49" font-weight="700" text-anchor="middle">E01  ESP32</text>
+<text x="192" y="332" font-size="13" fill="#61738B" font-weight="400" text-anchor="middle">E07  HX711</text>
+<text x="192" y="360" font-size="12" fill="#61738B" font-weight="400" text-anchor="middle">C07 함체 / 건식 받침</text>
+<rect x="109" y="430" width="166" height="55" rx="4" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="192" y="453" font-size="13" fill="#152C49" font-weight="700" text-anchor="middle">E05  DFR0457</text>
+<text x="192" y="473" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">전력선 별도 고정</text>
+<circle cx="145" cy="537" r="19" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="2"/>
+<text x="174" y="535" font-size="11" fill="#152C49" font-weight="700" text-anchor="start">물리 정지 조작부</text>
+<text x="174" y="552" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">접근 가능한 위치</text>
+<rect x="337" y="243" width="197" height="233" rx="4" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1.6"/>
+<rect x="355" y="279" width="161" height="161" rx="2" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="436" y="326" font-size="15" fill="#152C49" font-weight="700" text-anchor="middle">W03 용기</text>
+<text x="436" y="352" font-size="12" fill="#61738B" font-weight="400" text-anchor="middle">180 × 180 이하</text>
+<text x="436" y="380" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">물받이와 함께 계량</text>
+<rect x="379" y="397" width="16" height="27" rx="2" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="387" y="415" font-size="10" fill="#2F6BDE" font-weight="700" text-anchor="middle">A</text>
+<rect x="472" y="397" width="16" height="27" rx="2" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="480" y="415" font-size="10" fill="#2F6BDE" font-weight="700" text-anchor="middle">B</text>
+<line x1="337" y1="476" x2="337" y2="516" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="534" y1="476" x2="534" y2="516" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="337" y1="510" x2="534" y2="510" stroke="#61738B" stroke-width="0.8"/>
+<line x1="333" y1="514" x2="341" y2="506" stroke="#61738B" stroke-width="0.8"/>
+<line x1="530" y1="514" x2="538" y2="506" stroke="#61738B" stroke-width="0.8"/>
+<text x="435.5" y="503" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">계량 상판 220</text>
+<line x1="337" y1="243" x2="325" y2="243" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="337" y1="476" x2="325" y2="476" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="320" y1="243" x2="320" y2="476" stroke="#61738B" stroke-width="0.8"/>
+<line x1="316" y1="247" x2="324" y2="239" stroke="#61738B" stroke-width="0.8"/>
+<line x1="316" y1="480" x2="324" y2="472" stroke="#61738B" stroke-width="0.8"/>
+<text x="311" y="363.5" font-size="11" fill="#61738B" font-weight="400" text-anchor="end">260</text>
+<text x="436" y="537" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">로드셀 + 상·하판 높이 ≤ 40 목표</text>
+<rect x="584" y="268" width="124" height="141" rx="8" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="646" y="307" font-size="14" fill="#152C49" font-weight="700" text-anchor="middle">W02 물통</text>
+<text x="646" y="332" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">기성품 약 5 L</text>
+<text x="646" y="353" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">초기 충전 ≤ 3 L 제안</text>
+<text x="646" y="381" font-size="11" fill="#008597" font-weight="400" text-anchor="middle">넘침 트레이·고정</text>
+<circle cx="646" cy="484" r="30" fill="#FFFFFF" stroke="#008597" stroke-width="1.6"/>
+<text x="646" y="489" font-size="13" fill="#008597" font-weight="700" text-anchor="middle">E04</text>
+<line x1="646" y1="409" x2="646" y2="450" stroke="#008597" stroke-width="2"/>
+<polygon points="646,450 642.9552412612214,443.69687028353127 649.0447587387786,443.69687028353127" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<polyline points="616,484 562,484 562,256 502,256" fill="none" stroke="#008597" stroke-width="2"/>
+<line x1="502" y1="256" x2="502" y2="285" stroke="#008597" stroke-width="2"/>
+<polygon points="502,285 498.9552412612214,278.69687028353127 505.0447587387786,278.69687028353127" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<text x="585" y="537" font-size="11" fill="#008597" font-weight="400" text-anchor="start">펌프 + 튜브 고정</text>
+<line x1="295" y1="341" x2="315" y2="341" stroke="#2F6BDE" stroke-width="1.3" stroke-dasharray="5 4"/>
+<polyline points="315,341 315,220 496,220 496,238" fill="none" stroke="#2F6BDE" stroke-width="1.3" stroke-dasharray="5 4"/>
+<text x="361" y="216" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">별도 지지바 / 선에 여유 루프</text>
+<line x1="365" y1="570" x2="365" y2="550" stroke="#2F6BDE" stroke-width="1.4"/>
+<polygon points="365,550 368.0447587387786,556.3031297164688 361.9552412612214,556.3031297164688" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<text x="385" y="573" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">정면 / 작업자</text>
+<rect x="778" y="198" width="294" height="140" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="794" y="222" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">조립 전에 확보</text>
+<text x="794" y="244" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">평평하고 움직이지 않는 기존 책상</text>
+<text x="794" y="263" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">용기·배지·물·상판을 포함한 총질량</text>
+<text x="794" y="282" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">전자장치로 흘러가지 않는 낙수 경로</text>
+<text x="794" y="301" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">물통·펌프·출수구의 독립된 고정</text>
+<text x="794" y="320" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">USB 전원과 12 V 모터 전원 구분</text>
+<rect x="778" y="374" width="294" height="140" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="794" y="398" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">설치 원칙</text>
+<text x="794" y="420" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">온습도 A/B는 함체 밖의 동일 통풍 조건</text>
+<text x="794" y="439" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">프로브 A/B는 같은 깊이·방향으로 삽입</text>
+<text x="794" y="458" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">튜브·전선은 계량 상판을 당기지 않음</text>
+<text x="794" y="477" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">물받이도 상판 위에서 함께 계량</text>
+<text x="794" y="496" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">노트북은 별도 건식 위치에 배치</text>
+<text x="64" y="652" font-size="14" fill="#2F6BDE" font-weight="700" text-anchor="start">오늘의 1차 완료 기준</text>
+<text x="64" y="677" font-size="12" fill="#152C49" font-weight="400" text-anchor="start">전압·센서 주소 확인 → 원시값 수집 → 빈 판/기준 질량 검수 → 독립 컵 급수로 공급량 측정</text>
+</svg>

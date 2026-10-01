@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="07  미확정 치수 · 제작 전 검수표">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">07  미확정 치수 · 제작 전 검수표</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">기계 revision M1 / 보드 revision B0 / 하네스 revision H1 / 실측칸을 채운 뒤 도면과 BOM을 함께 갱신</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-07   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">07 / 08</text>
+<rect x="48" y="148" width="1024" height="31" rx="0" fill="#152C49" stroke="#152C49" stroke-width="1"/>
+<text x="58" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">확정할 항목</text>
+<text x="247" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">현재 기준 / 아직 남은 일</text>
+<text x="588" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">실측값 · 검수 결과</text>
+<text x="942" y="169" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">담당 / 날짜</text>
+<rect x="48" y="179" width="1024" height="40" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">로드셀 지그</text>
+<text x="247" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">220×260 외형 / 홀·나사·판두께·여유 미정</text>
+<text x="588" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="198" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="219" width="1024" height="40" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="238" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">계량 성능</text>
+<text x="247" y="238" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">총 하중, 영점·반복성·크리프·10 g 변화</text>
+<text x="588" y="238" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="238" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="259" width="1024" height="40" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="278" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">프로파일 결합</text>
+<text x="247" y="278" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">2020 맞댐 가정 / 홈·브래킷·T너트 모델</text>
+<text x="588" y="278" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="278" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="299" width="1024" height="40" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="318" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">구조 안정성</text>
+<text x="247" y="318" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">후면 보강, 발 고정, 총 적재질량 검토</text>
+<text x="588" y="318" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="318" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="339" width="1024" height="40" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="358" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">전장함 캐리어</text>
+<text x="247" y="358" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">760×250 제안 / 판두께·홀·글랜드·개폐</text>
+<text x="588" y="358" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="358" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="379" width="1024" height="40" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="398" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">펌프·튜브</text>
+<text x="247" y="398" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">고정홀, 헤드/연장 튜브 적합성, 누수</text>
+<text x="588" y="398" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="398" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="419" width="1024" height="40" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="438" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">DC 전력 보호</text>
+<text x="247" y="438" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">기동/연속/구속 전류, 전선·차단·퓨즈 정격</text>
+<text x="588" y="438" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="438" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="459" width="1024" height="40" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="478" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">보드·센서 회로</text>
+<text x="247" y="478" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">실크·핀배열·I2C 주소·출력 HIGH 전압</text>
+<text x="588" y="478" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="478" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="499" width="1024" height="40" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="518" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">정지·누수 입력</text>
+<text x="247" y="518" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">접점/단선 회로, 부팅 OFF·재시작 잠금</text>
+<text x="588" y="518" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<text x="942" y="518" font-size="11" fill="#152C49" font-weight="400" text-anchor="start"></text>
+<rect x="48" y="565" width="494" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="64" y="589" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">실제 급수 연동 전에 남길 증거</text>
+<text x="64" y="611" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">모터 전력 물리 차단 사진과 회로 검토 기록</text>
+<text x="64" y="630" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">전원복구·업로드·통신두절·계량이상에서 신규 펄스 차단</text>
+<text x="64" y="649" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">펌프 보정 CSV, 기준 질량 로그, 지그 실측 치수표</text>
+<text x="64" y="668" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">원문 제안 한도(10 mL/회 등)는 책임자가 실물 검수 후 결정</text>
+<rect x="566" y="565" width="506" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="582" y="589" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">근거와 도면 사용 범위</text>
+<text x="582" y="611" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">사용자 제공 MASTER v4의 18-21 / 29장 기반</text>
+<text x="582" y="630" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">DFRobot DFR0457: wiki.dfrobot.com/dfr0457/</text>
+<text x="582" y="649" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">Espressif 공식 ESP32 GPIO 문서 (2026-10-01 조회)</text>
+<text x="582" y="668" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">완료되지 않은 가공·전기·실물 시험을 완료로 표시하지 않음</text>
+</svg>

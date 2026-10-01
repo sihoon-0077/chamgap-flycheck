@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="03  계량 받침 분해 조립 원리">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">03  계량 받침 분해 조립 원리</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">막대형 로드셀: 한 끝은 베이스에, 반대 끝은 하중 상판에 고정 / PP-A410 실물 고정 방향 확인</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-03   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">03 / 08</text>
+<text x="50" y="153" font-size="14" fill="#152C49" font-weight="700" text-anchor="start">분해도 / 형상 개념 · 홀 위치 미확정</text>
+<polygon points="205,177 368,177 350,250 222,250" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.5"/>
+<line x1="205" y1="177" x2="242" y2="156" stroke="#2F6BDE" stroke-width="1.2"/>
+<line x1="242" y1="156" x2="405" y2="156" stroke="#2F6BDE" stroke-width="1.2"/>
+<line x1="405" y1="156" x2="368" y2="177" stroke="#2F6BDE" stroke-width="1.2"/>
+<polygon points="174,264 397,264 428,247 205,247" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1.2"/>
+<line x1="190" y1="281" x2="455" y2="281" stroke="#D6E0EC" stroke-width="1" stroke-dasharray="5 4"/>
+<polygon points="112,341 388,341 469,296 193,296" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1.5"/>
+<polygon points="112,341 388,341 388,351 112,351" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.2"/>
+<polygon points="388,341 469,296 469,306 388,351" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.2"/>
+<rect x="349" y="382" width="35" height="25" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<rect x="218" y="435" width="175" height="31" rx="2" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<circle cx="280" cy="450" r="8" fill="none" stroke="#2F6BDE" stroke-width="1.2"/>
+<circle cx="325" cy="450" r="8" fill="none" stroke="#2F6BDE" stroke-width="1.2"/>
+<rect x="224" y="493" width="35" height="25" rx="0" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<polygon points="112,571 388,571 469,526 193,526" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1.5"/>
+<polygon points="112,571 388,571 388,581 112,581" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.2"/>
+<polygon points="388,571 469,526 469,536 388,581" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.2"/>
+<line x1="241" y1="362" x2="241" y2="549" stroke="#D6E0EC" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="367" y1="362" x2="367" y2="549" stroke="#D6E0EC" stroke-width="1" stroke-dasharray="5 4"/>
+<line x1="515" y1="290" x2="515" y2="590" stroke="#2F6BDE" stroke-width="1.4"/>
+<polygon points="515,590 511.9552412612214,583.6968702835312 518.0447587387786,583.6968702835312" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<text x="515" y="621" font-size="11" fill="#2F6BDE" font-weight="700" text-anchor="middle">하중 전달</text>
+<line x1="477" y1="208" x2="544" y2="208" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="209" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="213" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">1</text>
+<text x="588" y="213" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">용기 + 물받이</text>
+<line x1="477" y1="327" x2="544" y2="327" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="328" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="332" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">2</text>
+<text x="588" y="332" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">상판 220 × 260</text>
+<line x1="477" y1="392" x2="544" y2="392" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="393" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="397" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">3</text>
+<text x="588" y="397" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">상판측 스페이서</text>
+<line x1="477" y1="449" x2="544" y2="449" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="450" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="454" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">4</text>
+<text x="588" y="454" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">E06 로드셀</text>
+<line x1="477" y1="505" x2="544" y2="505" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="506" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="510" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">5</text>
+<text x="588" y="510" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">베이스측 스페이서</text>
+<line x1="477" y1="565" x2="544" y2="565" stroke="#D6E0EC" stroke-width="1.2"/>
+<circle cx="568" cy="566" r="11" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="1.2"/>
+<text x="568" y="570" font-size="10" fill="#FFFFFF" font-weight="700" text-anchor="middle">6</text>
+<text x="588" y="570" font-size="12" fill="#152C49" font-weight="700" text-anchor="start">고정 베이스</text>
+<line x1="112" y1="581" x2="112" y2="630" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="388" y1="581" x2="388" y2="630" stroke="#D6E0EC" stroke-width="0.8"/>
+<line x1="112" y1="624" x2="388" y2="624" stroke="#61738B" stroke-width="0.8"/>
+<line x1="108" y1="628" x2="116" y2="620" stroke="#61738B" stroke-width="0.8"/>
+<line x1="384" y1="628" x2="392" y2="620" stroke="#61738B" stroke-width="0.8"/>
+<text x="250.0" y="617" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">220 (목표 외형)</text>
+<text x="286" y="648" font-size="11" fill="#61738B" font-weight="400" text-anchor="middle">깊이 260 / 완성 높이 ≤ 40 목표</text>
+<rect x="752" y="166" width="320" height="140" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="768" y="190" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">체결 순서</text>
+<text x="768" y="212" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">① 베이스에 로드셀 고정측을 체결</text>
+<text x="768" y="231" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">② 반대 끝에 스페이서와 상판을 체결</text>
+<text x="768" y="250" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">③ 중앙 변형부와 판 사이 여유 확보</text>
+<text x="768" y="269" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">④ 전선에 여유를 두고 베이스에서 고정</text>
+<text x="768" y="288" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">⑤ 상판에 물받이·용기를 함께 배치</text>
+<rect x="752" y="349" width="320" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="768" y="373" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">반드시 실측해서 채울 값</text>
+<text x="768" y="395" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">로드셀 길이·폭·높이, 홀 간격·나사산</text>
+<text x="768" y="414" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">상·하판 두께와 재료, 스페이서 높이</text>
+<text x="768" y="433" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">볼트 길이·체결 토크, 과부하 스토퍼</text>
+<text x="768" y="452" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">측하중 억제 구조와 전도 안정성</text>
+<rect x="752" y="513" width="320" height="121" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="768" y="537" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">검수: 작은 질량 변화가 보이는가</text>
+<text x="768" y="559" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">빈 판 영점 → 알려진 질량 → 반복 제거</text>
+<text x="768" y="578" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">약 10 g 추가 변화와 반복 잡음 비교</text>
+<text x="768" y="597" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">선·튜브를 움직여 영점 변화 기록</text>
+<text x="768" y="616" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">10 kg 정격은 10 g 식별 보장이 아님</text>
+<text x="50" y="691" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">※ 도면의 원·직사각형은 구조 설명용이다. 표시된 나사홀·로드셀 비율을 출력물에서 재어 가공하지 않는다.</text>
+</svg>

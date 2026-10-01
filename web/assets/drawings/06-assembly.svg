@@ -1,0 +1,76 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="06  1구역 조립 순서 · 부품 묶음">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">06  1구역 조립 순서 · 부품 묶음</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">1구역을 검수한 다음 동일 모델로 3구역 복제 / 부품 ID는 원문 19장 구매표와 연결</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-06   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">06 / 08</text>
+<rect x="48" y="149" width="1024" height="31" rx="0" fill="#152C49" stroke="#152C49" stroke-width="1"/>
+<text x="58" y="170" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">순서</text>
+<text x="106" y="170" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">조립 작업</text>
+<text x="314" y="170" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">사용 부품 / 필요한 도구</text>
+<text x="677" y="170" font-size="11" fill="#FFFFFF" font-weight="700" text-anchor="start">다음 단계로 넘어갈 기준</text>
+<rect x="48" y="180" width="1024" height="45" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="199" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">01</text>
+<text x="106" y="199" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">책상·고정·낙수 경로</text>
+<text x="314" y="199" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">기존 책상, 고정 지그, 물받이 / 줄자·수평계</text>
+<text x="677" y="199" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">전장·물 구획 분리, 물통·용기 전도 방지</text>
+<rect x="48" y="225" width="1024" height="45" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="244" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">02</text>
+<text x="106" y="244" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">센서 회로 무수 연결</text>
+<text x="314" y="244" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">E01 + E02×2 + E03×2 / 멀티미터·USB</text>
+<text x="677" y="244" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">3.3 V 범위, 주소 0x44/45, 원시 ADC 확인</text>
+<rect x="48" y="270" width="1024" height="45" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="289" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">03</text>
+<text x="106" y="289" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">동일 조건 센서 비교</text>
+<text x="314" y="289" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">A/B 센서 지그 / 온습도·원시값 로그</text>
+<text x="677" y="289" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">센서 ID·편차·시간축·누락 여부 기록</text>
+<rect x="48" y="315" width="1024" height="45" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="334" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">04</text>
+<text x="106" y="334" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">계량 받침 조립·검수</text>
+<text x="314" y="334" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">E06 + E07 + 판/스페이서 / 기준 질량</text>
+<text x="677" y="334" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">영점·반복성·호스 힘 영향 / 약 10 g 식별</text>
+<rect x="48" y="360" width="1024" height="45" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="379" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">05</text>
+<text x="106" y="379" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">독립 컵 펌프 시험</text>
+<text x="314" y="379" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">E04 + E05 + P01/P04/P06/P07 / 독립 저울</text>
+<text x="677" y="379" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">정격 검토 완료 후 물리 차단·부팅 OFF 확인</text>
+<rect x="48" y="405" width="1024" height="45" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="424" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">06</text>
+<text x="106" y="424" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">펌프 공급량 보정</text>
+<text x="314" y="424" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">W01/W02 + 펌프 / 타이머·독립 저울</text>
+<text x="677" y="424" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">운전시간 ≥3종, 각 ≥2회부터 질량 기록</text>
+<rect x="48" y="450" width="1024" height="45" rx="0.0" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="469" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">07</text>
+<text x="106" y="469" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">배지·프로브 설치</text>
+<text x="314" y="469" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">W03 + W04 + A/B 프로브 / 깊이 기준자</text>
+<text x="677" y="469" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">배지·다짐·깊이·방향 고정, 반응 지연 기록</text>
+<rect x="48" y="495" width="1024" height="45" rx="0.0" fill="#FFFFFF" stroke="#D6E0EC" stroke-width="0.5"/>
+<text x="58" y="514" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">08</text>
+<text x="106" y="514" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">3구역 복제·마감</text>
+<text x="314" y="514" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">노드 2세트 추가 + C07×3 + 선택 프레임</text>
+<text x="677" y="514" font-size="11" fill="#152C49" font-weight="400" text-anchor="start">구역 ID, 한 구역 작동의 타 계량 영향 검수</text>
+<text x="48" y="568" font-size="14" fill="#2F6BDE" font-weight="700" text-anchor="start">1구역 우선 준비 수량</text>
+<rect x="48" y="586" width="326" height="102" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="64" y="610" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">센서 · 제어 · 계량</text>
+<text x="64" y="632" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">E01 ESP32 ×1 / E02 SHT31 ×2</text>
+<text x="64" y="651" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">E03 SEN0193 ×2 / E06 로드셀 ×1</text>
+<text x="64" y="670" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">E07 HX711 ×1 / 상·하판 각1</text>
+<rect x="398" y="586" width="326" height="102" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="414" y="610" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">급수 · 전원</text>
+<text x="414" y="632" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">E04 펌프 ×1 / E05 DFR0457 ×1</text>
+<text x="414" y="651" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">P01 12 V · P02 USB 전원 각1</text>
+<text x="414" y="670" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">차단·퓨즈·전력선은 정격 확정 후</text>
+<rect x="748" y="586" width="324" height="102" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="764" y="610" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">고정 · 시험</text>
+<text x="764" y="632" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">물통·화분·물받이 각1 / 튜브</text>
+<text x="764" y="651" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">멀티미터·독립 저울·기준 질량</text>
+<text x="764" y="670" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">드라이버·고정구·라벨·절연 마감</text>
+</svg>

@@ -1,0 +1,119 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1120" height="792" viewBox="0 0 1120 792" role="img" aria-label="05  펌프 전력 경로 · 독립 물길">
+<style>text{font-family:"Malgun Gothic","Noto Sans KR",sans-serif}</style>
+<rect x="0" y="0" width="1120" height="792" rx="0" fill="#FFFFFF" stroke="#FFFFFF" stroke-width="1"/>
+<text x="48" y="35" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="start">CHAMGAP  /  FLYCHECK</text>
+<text x="48" y="74" font-size="27" fill="#152C49" font-weight="700" text-anchor="start">05  펌프 전력 경로 · 독립 물길</text>
+<text x="48" y="103" font-size="12" fill="#61738B" font-weight="400" text-anchor="start">논리 연결도 / 실제 DFR0457 전력·제어 단자의 위치는 제조사 핀아웃과 수령품으로 확인</text>
+<rect x="850" y="32" width="222" height="28" rx="6" fill="#F2F6FC" stroke="#D6E0EC" stroke-width="1"/>
+<text x="961" y="51" font-size="12" fill="#2F6BDE" font-weight="700" text-anchor="middle">제작 검토용 v1 / 미실측</text>
+<line x1="48" y1="119" x2="1072" y2="119" stroke="#D6E0EC" stroke-width="1.2"/>
+<line x1="48" y1="720" x2="1072" y2="720" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="740" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">도면 기준  MASTER v4 · 18-21 / 29장   |   단위 mm   |   표기 치수 우선 · 축척 없음</text>
+<text x="48" y="758" font-size="10" fill="#61738B" font-weight="400" text-anchor="start">실물 홀·체결·하중·DC 차단 정격 확정 전 가공 및 통전 승인용으로 사용하지 않음</text>
+<text x="1072" y="742" font-size="11" fill="#152C49" font-weight="700" text-anchor="end">CG-HW-05   /   2026.10.01</text>
+<text x="1072" y="760" font-size="10" fill="#61738B" font-weight="400" text-anchor="end">05 / 08</text>
+<text x="48" y="150" font-size="15" fill="#152C49" font-weight="700" text-anchor="start">12 V 저전압 전력 경로</text>
+<rect x="48" y="180" width="143" height="63" rx="4" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="119.5" y="205" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">P01  12V 어댑터</text>
+<text x="119.5" y="227" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">완제품 · (+)</text>
+<rect x="222" y="180" width="132" height="63" rx="4" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="288.0" y="205" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">주 퓨즈</text>
+<text x="288.0" y="227" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">정격 미확정</text>
+<rect x="385" y="180" width="170" height="63" rx="4" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="470.0" y="205" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">물리 DC 차단 경로</text>
+<text x="470.0" y="227" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">스위치/접촉기 검토</text>
+<rect x="586" y="180" width="143" height="63" rx="4" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="657.5" y="205" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">분배 단자대</text>
+<text x="657.5" y="227" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">정격·선경 검수</text>
+<line x1="191" y1="211" x2="222" y2="211" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="222,211 215.69687028353127,214.04475873877863 215.69687028353127,207.95524126122137" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<line x1="354" y1="211" x2="385" y2="211" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="385,211 378.69687028353127,214.04475873877863 378.69687028353127,207.95524126122137" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<line x1="555" y1="211" x2="586" y2="211" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="586,211 579.6968702835312,214.04475873877863 579.6968702835312,207.95524126122137" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<line x1="657" y1="243" x2="657" y2="417" stroke="#2F6BDE" stroke-width="2"/>
+<line x1="657" y1="297" x2="704" y2="297" stroke="#2F6BDE" stroke-width="2"/>
+<rect x="704" y="273" width="104" height="47" rx="3" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="756" y="293" font-size="11" fill="#152C49" font-weight="700" text-anchor="middle">Z1 분기 퓨즈</text>
+<text x="756" y="309" font-size="9" fill="#61738B" font-weight="400" text-anchor="middle">정격 미확정</text>
+<line x1="808" y1="297" x2="832" y2="297" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="832,297 825.6968702835312,300.0447587387786 825.6968702835312,293.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<rect x="832" y="273" width="109" height="47" rx="3" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="886" y="301" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">DFR0457</text>
+<line x1="941" y1="297" x2="966" y2="297" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="966,297 959.6968702835312,300.0447587387786 959.6968702835312,293.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<circle cx="993" cy="297" r="23" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.5"/>
+<text x="993" y="301" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">M1</text>
+<line x1="657" y1="357" x2="704" y2="357" stroke="#2F6BDE" stroke-width="2"/>
+<rect x="704" y="333" width="104" height="47" rx="3" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="756" y="353" font-size="11" fill="#152C49" font-weight="700" text-anchor="middle">Z2 분기 퓨즈</text>
+<text x="756" y="369" font-size="9" fill="#61738B" font-weight="400" text-anchor="middle">정격 미확정</text>
+<line x1="808" y1="357" x2="832" y2="357" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="832,357 825.6968702835312,360.0447587387786 825.6968702835312,353.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<rect x="832" y="333" width="109" height="47" rx="3" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="886" y="361" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">DFR0457</text>
+<line x1="941" y1="357" x2="966" y2="357" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="966,357 959.6968702835312,360.0447587387786 959.6968702835312,353.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<circle cx="993" cy="357" r="23" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.5"/>
+<text x="993" y="361" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">M2</text>
+<line x1="657" y1="417" x2="704" y2="417" stroke="#2F6BDE" stroke-width="2"/>
+<rect x="704" y="393" width="104" height="47" rx="3" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1"/>
+<text x="756" y="413" font-size="11" fill="#152C49" font-weight="700" text-anchor="middle">Z3 분기 퓨즈</text>
+<text x="756" y="429" font-size="9" fill="#61738B" font-weight="400" text-anchor="middle">정격 미확정</text>
+<line x1="808" y1="417" x2="832" y2="417" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="832,417 825.6968702835312,420.0447587387786 825.6968702835312,413.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<rect x="832" y="393" width="109" height="47" rx="3" fill="#F2F6FC" stroke="#2F6BDE" stroke-width="1"/>
+<text x="886" y="421" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">DFR0457</text>
+<line x1="941" y1="417" x2="966" y2="417" stroke="#2F6BDE" stroke-width="2"/>
+<polygon points="966,417 959.6968702835312,420.0447587387786 959.6968702835312,413.9552412612214" fill="#2F6BDE" stroke="#2F6BDE" stroke-width="0.5"/>
+<circle cx="993" cy="417" r="23" fill="#FFFFFF" stroke="#2F6BDE" stroke-width="1.5"/>
+<text x="993" y="421" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">M3</text>
+<rect x="48" y="278" width="540" height="140" rx="6" fill="#F2F6FC" stroke="none" stroke-width="1"/>
+<text x="64" y="302" font-size="13" fill="#152C49" font-weight="700" text-anchor="start">실제 단자·보호 구성 확인</text>
+<text x="64" y="324" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">어댑터 (-) → 검수된 공통 귀환점 → 각 모듈의 지정된 GND</text>
+<text x="64" y="343" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">ESP32 신호 GND → DFR0457 제조사 지침의 기준 접지</text>
+<text x="64" y="362" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">각 펌프 양단에 정격 검토된 역기전력 억제 회로</text>
+<text x="64" y="381" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">보호소자 극성·전류·열·DC 차단 능력은 실물 부하 기준 선정</text>
+<text x="64" y="400" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">1N4007은 구매 후보. 모든 펌프/PWM에 적합한 것으로 확정하지 않음</text>
+<line x1="48" y1="459" x2="1072" y2="459" stroke="#D6E0EC" stroke-width="1.2"/>
+<text x="48" y="487" font-size="15" fill="#008597" font-weight="700" text-anchor="start">물통은 공용 / 펌프 이후 물길은 세 갈래 독립</text>
+<rect x="61" y="525" width="165" height="114" rx="7" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="143" y="560" font-size="14" fill="#152C49" font-weight="700" text-anchor="middle">뚜껑 있는 물통</text>
+<text x="143" y="585" font-size="12" fill="#61738B" font-weight="400" text-anchor="middle">5 L 기성품</text>
+<text x="143" y="611" font-size="10" fill="#61738B" font-weight="400" text-anchor="middle">초기 충전 ≤ 3 L 제안</text>
+<polyline points="226,560 270,560 270,529 343,529" fill="none" stroke="#008597" stroke-width="1.7"/>
+<rect x="343" y="511" width="133" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="409" y="534" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">펌프 1</text>
+<line x1="476" y1="529" x2="543" y2="529" stroke="#008597" stroke-width="2"/>
+<polygon points="543,529 536.6968702835312,532.0447587387786 536.6968702835312,525.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="543" y="511" width="199" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="642" y="534" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">고정 출수구 1</text>
+<line x1="742" y1="529" x2="813" y2="529" stroke="#008597" stroke-width="2"/>
+<polygon points="813,529 806.6968702835312,532.0447587387786 806.6968702835312,525.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="813" y="511" width="243" height="37" rx="4" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="934" y="534" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z1 용기 + 물받이 / 계량</text>
+<polyline points="226,578 284,578 284,581 343,581" fill="none" stroke="#008597" stroke-width="1.7"/>
+<rect x="343" y="563" width="133" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="409" y="586" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">펌프 2</text>
+<line x1="476" y1="581" x2="543" y2="581" stroke="#008597" stroke-width="2"/>
+<polygon points="543,581 536.6968702835312,584.0447587387786 536.6968702835312,577.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="543" y="563" width="199" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="642" y="586" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">고정 출수구 2</text>
+<line x1="742" y1="581" x2="813" y2="581" stroke="#008597" stroke-width="2"/>
+<polygon points="813,581 806.6968702835312,584.0447587387786 806.6968702835312,577.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="813" y="563" width="243" height="37" rx="4" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="934" y="586" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z2 용기 + 물받이 / 계량</text>
+<polyline points="226,596 298,596 298,633 343,633" fill="none" stroke="#008597" stroke-width="1.7"/>
+<rect x="343" y="615" width="133" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="409" y="638" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">펌프 3</text>
+<line x1="476" y1="633" x2="543" y2="633" stroke="#008597" stroke-width="2"/>
+<polygon points="543,633 536.6968702835312,636.0447587387786 536.6968702835312,629.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="543" y="615" width="199" height="37" rx="4" fill="#FFFFFF" stroke="#008597" stroke-width="1"/>
+<text x="642" y="638" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">고정 출수구 3</text>
+<line x1="742" y1="633" x2="813" y2="633" stroke="#008597" stroke-width="2"/>
+<polygon points="813,633 806.6968702835312,636.0447587387786 806.6968702835312,629.9552412612214" fill="#008597" stroke="#008597" stroke-width="0.5"/>
+<rect x="813" y="615" width="243" height="37" rx="4" fill="#F2F6FC" stroke="#008597" stroke-width="1"/>
+<text x="934" y="638" font-size="12" fill="#152C49" font-weight="700" text-anchor="middle">Z3 용기 + 물받이 / 계량</text>
+<text x="61" y="680" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">튜브 W01: 내경 2.5 / 외경 4.5 mm 후보. 펌프 헤드 튜브와 호환·밀폐 여부 확인 후 사용.</text>
+<text x="61" y="699" font-size="11" fill="#61738B" font-weight="400" text-anchor="start">출수구·튜브는 프레임에서 지지. 배수·누수·호스 힘이 질량 변화에 섞이는 구간은 별도 기록.</text>
+</svg>
